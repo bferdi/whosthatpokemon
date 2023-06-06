@@ -1,4 +1,4 @@
-# Who's That Pokemon Game
+# Who's That Pokemon Game (WIP) 
 
 Welcome to the Who's That Pokemon game! This is a simple game where you have to guess the name of a randomly chosen Pokemon. The game uses the PokeAPI to retrieve Pokemon data and images.
 
